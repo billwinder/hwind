@@ -10,7 +10,7 @@ const MyHeader = () => {
         items-center justify-center
         flex-shrink-0 
         "  >
-            <div className="h-10 mr-2" >
+            <div className="h-8 mr-2" >
                 <img src="/hlogo.PNG" 
                 alt="Google Pay"
                 className="max-h-full w-auto" />
