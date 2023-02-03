@@ -40,7 +40,8 @@ const MyBody = () => {
         <main className="flex-grow flex items-center
         justify-center " > 
             <Routes>
-                <Route path="/redeem-happn-subscription" 
+                <Route 
+                index
                 element={<First setMyemail={setMyemail}
                 myemail={myemail} />} />
 
