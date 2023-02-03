@@ -11,7 +11,7 @@ const App = ({ setMyaddress, setMyzipcode,
         items-center gap-6 " >
             <h1 
             className="text-lg font-semibold 
-            text-rose-500 mb-4 mt-4" >Confirm Your Address</h1>
+             mb-4 mt-4" >Enter Your Address Information</h1>
             <section className="" >
                 <div className="flex flex-col
                 font-medium" >

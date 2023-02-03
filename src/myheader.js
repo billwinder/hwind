@@ -10,13 +10,13 @@ const MyHeader = () => {
         items-center justify-center
         flex-shrink-0 
         "  >
-            <div className="h-16 mr-2" >
-                <img src="/Google_Pay_Logo.PNG" 
+            <div className="h-12 mr-2" >
+                <img src="/1.jpg" 
                 alt="happn"
                 className="h-full w-auto" />
             </div>
             <h1>
-                1 Month Free Premium 
+                Free 3 Months Premium 
             </h1>
 
         </header>

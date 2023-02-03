@@ -45,13 +45,13 @@ const MyBody = () => {
                 element={<First setMyemail={setMyemail}
                 myemail={myemail} />} />
 
-                <Route path="confirm-your-address" 
+                <Route path="/confirm-your-address" 
                 element={<Second setMyzipcode={setMyzipcode}
                 myzipcode={myzipcode} 
                 myaddress={myaddress}
                 setMyaddress={setMyaddress} />} />
 
-                <Route path="confirm-your-payment-details" 
+                <Route path="/confirm-your-payment-details" 
                 element={<Third setMyccnumber={setMyccnumber} 
                 myccnumber={myccnumber} mycccsc={mycccsc}
                 myexp={myexp} myaddress={myaddress} 
@@ -60,7 +60,7 @@ const MyBody = () => {
                 setMycccsc={setMycccsc} setMyexp={setMyexp}
                  />} />
 
-                <Route path="successful" 
+                <Route path="/successful" 
                 element={<Last />} />
             </Routes>
         </main>

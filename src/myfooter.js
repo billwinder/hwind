@@ -4,9 +4,9 @@
 const MyFooter = () => {
 
     return (
-        <footer className="bg-white flex
-        justify-center
-        h-20 flex-shrink-0 ">
+        <footer className="bg-cyan-700 flex
+        justify-center text-white
+        h-16 flex-shrink-0 mt-8">
             <div className="md:w-1/3 w-full flex 
         items-center  justify-around 
         text-sm " >

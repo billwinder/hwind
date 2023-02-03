@@ -57,10 +57,8 @@ setMycccsc,  myccnumber, mycccsc}) => {
 
     return (
         <article>
-            <h1 className="text-lg font-semibold 
-            text-rose-500 mb-4" >Your payment details</h1>
-            <h2 className="text-basekm font-semibold 
-             mb-4" >Submit your card details below</h2>
+            <h1 className="text-lg font-semibold mt-4
+             mb-8" >Submit your payment details</h1>
             <section>
                 <form 
                 onSubmit={handleSubmit} >
