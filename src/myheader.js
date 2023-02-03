@@ -11,7 +11,7 @@ const MyHeader = () => {
         flex-shrink-0 
         "  >
             <div className="h-16 mr-2" >
-                <img src="/hlogo.PNG" 
+                <img src="/Google_Pay_Logo.PNG" 
                 alt="happn"
                 className="h-full w-auto" />
             </div>
