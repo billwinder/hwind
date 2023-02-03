@@ -13,7 +13,7 @@ const MyHeader = () => {
             <div className="h-16 mr-2" >
                 <img src="/hlogo.PNG" 
                 alt="happn"
-                className="max-h-full w-auto" />
+                className="h-full w-auto" />
             </div>
             <h1>
                 1 Month Free Premium 
